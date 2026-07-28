@@ -1,207 +1,214 @@
 <div align="center">
 
-<!-- ANIMATED HEADER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f2e,100:58a6ff&height=120&section=header&text=Vedant%20Ilame&fontSize=42&fontColor=e6edf3&fontAlignY=65&animation=fadeIn&desc=Frontend%20Developer&descAlignY=85&descSize=16&descColor=58a6ff"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:1E3A8A&height=200&section=header&text=Vedant%20Ilame&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Software%20Developer%20%7C%20MERN%20%7C%20AI%2FML&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
-<!-- TYPING SVG -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Mono&size=15&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Turning+Figma+designs+into+production-ready+React+apps;Building+responsive+SPAs+with+90%2B+Lighthouse+scores;3+internships+%7C+Live+deployments+%7C+BTech+CS+%2726)](https://github.com/vedantilame22?tab=repositories)
-
-<br/>
-
-<!-- MAIN CONTACT BADGES -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-vedantilame22-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vedantilame22)
-[![Live Project](https://img.shields.io/badge/Live_Project-Fruits_Bounty-3fb950?style=for-the-badge&logo=vercel&logoColor=white)](https://fruitbountyshop.vercel.app)
-[![GitHub](https://img.shields.io/badge/GitHub-vedantilame22-161b22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vedantilame22?tab=repositories)
-[![Email](https://img.shields.io/badge/Email-vedantilame22@gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vedantilame22@gmail.com)
-
-<br/>
-
-<!-- INFO PILLS — every one linked -->
-[![Profile Views](https://komarev.com/ghpvc/?username=vedantilame22&color=58a6ff&style=flat-square&label=Profile+Views)](https://github.com/vedantilame22)
-&nbsp;&nbsp;
-[![Location](https://img.shields.io/badge/📍_Nagpur,_India-0d1117?style=flat-square)](https://maps.app.goo.gl/KVnFTXNXYnJzPy4e8)
-&nbsp;&nbsp;
-[![BTech CS](https://img.shields.io/badge/🎓_BTech_CS_'26-0d1117?style=flat-square)](https://jdcoem.ac.in)
-&nbsp;&nbsp;
-[![Open to Work](https://img.shields.io/badge/⚡_Open_to_Work-238636?style=flat-square)](https://linkedin.com/in/vedantilame22)
+<a href="https://linkedin.com/in/vedantilame22">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=22&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=560&lines=Software+Developer;MERN+Stack+Developer;AI+%26+Machine+Learning+Enthusiast;Building+Scalable+Web+Applications;Learning+LLMs+%26+Generative+AI" alt="Typing SVG" />
+</a>
 
 </div>
 
----
+<br/>
 
-## 👋 About Me
+## About
 
-```javascript
-const vedant = {
-  role        : "Frontend Developer",
-  location    : "Nagpur, Maharashtra, India 📍",
-  education   : "BTech CSE · JDCOEM Nagpur · CGPA 8.4 · 2026 🎓",
-  internships : 3,
-  liveProjects: ["fruitbountyshop.vercel.app", "Weather App", "Portfolio"],
-  currentWork : "Frontend Developer Intern @ Graphura India Pvt. Ltd.",
-  focusAreas  : ["React.js SPAs", "Figma → Code", "Performance Optimisation"],
-  openTo      : "Full-time Frontend Developer roles 🚀",
-};
-```
+- Computer Science graduate (B.Tech, 2026) building production-grade web applications with the MERN stack
+- Hands-on experience across full-stack development, AI/ML, and Android, shaped by four internships
+- Comfortable across the stack — React.js, Redux Toolkit, Node.js, Express.js, MongoDB
+- Growing focus on Generative AI, LLMs, and prompt engineering
+- Enjoy solving problems end-to-end, from architecture to deployment
 
-- 🔥 Shipped **production-ready React components** with zero UI regression across 3 feature releases
-- ⚡ Achieved **[90+ Lighthouse score](https://fruitbountyshop.vercel.app)** on live e-commerce storefront via lazy loading & code splitting
-- 📱 Expert in **mobile-first responsive design** using CSS Flexbox, Grid & Tailwind CSS
-- 🎯 Skilled in **[Figma-to-code](https://www.figma.com)** implementation — eliminating design-dev miscommunication
-- 🛠️ Reduced unnecessary re-renders via **memoisation** for smoother UX
+<br/>
 
----
+## Tech Stack
 
-## 🛠️ Tech Stack
+**Languages**
+<br/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="36" height="36" alt="Java"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="36" height="36" alt="JavaScript"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="36" height="36" alt="Python"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="36" height="36" alt="SQL"/>
 
-**Frontend Core**
+**Frontend**
+<br/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="36" height="36" alt="HTML5"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="36" height="36" alt="CSS3"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="36" height="36" alt="Bootstrap"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="36" height="36" alt="React"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="36" height="36" alt="Redux"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="36" height="36" alt="Tailwind CSS"/>
 
-[![React](https://img.shields.io/badge/React.js-20232a?style=for-the-badge&logo=react&logoColor=61dafb)](https://react.dev)
-[![JavaScript](https://img.shields.io/badge/JavaScript_ES6+-f7df1e?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![HTML5](https://img.shields.io/badge/HTML5-e34f26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![CSS3](https://img.shields.io/badge/CSS3-1572b6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06b6d4?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com)
-[![Bootstrap](https://img.shields.io/badge/Bootstrap-7952b3?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com)
+**Backend**
+<br/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="36" height="36" alt="Node.js"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="36" height="36" alt="Express.js"/>
 
-**Design & Tooling**
+**Database**
+<br/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="36" height="36" alt="MongoDB"/>
 
-[![Figma](https://img.shields.io/badge/Figma-f24e1e?style=for-the-badge&logo=figma&logoColor=white)](https://figma.com)
-[![Git](https://img.shields.io/badge/Git-f05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/doc)
-[![GitHub](https://img.shields.io/badge/GitHub-161b22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vedantilame22)
-[![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com)
-[![VS Code](https://img.shields.io/badge/VS_Code-007acc?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com)
+**AI**
+<br/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="36" height="36" alt="TensorFlow"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/openai/openai-original.svg" width="36" height="36" alt="OpenAI"/>
 
-**Supporting Stack**
+**Tools**
+<br/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="36" height="36" alt="Git"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="36" height="36" alt="GitHub"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="36" height="36" alt="VS Code"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="36" height="36" alt="Postman"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="36" height="36" alt="Figma"/>
 
-[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org)
-[![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com)
-[![MongoDB](https://img.shields.io/badge/MongoDB-47a248?style=for-the-badge&logo=mongodb&logoColor=white)](https://mongodb.com)
-[![Java](https://img.shields.io/badge/Java-ed8b00?style=for-the-badge&logo=openjdk&logoColor=white)](https://dev.java)
+**Deployment**
+<br/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" width="36" height="36" alt="Vercel"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/render/render-original.svg" width="36" height="36" alt="Render"/>
 
----
+<br/>
 
-## 🚀 Featured Projects
+## Featured Projects
 
-### 🛍️ Fruits Bounty — E-commerce Storefront
+<table>
+<tr>
+<td width="50%" valign="top">
 
-> **[🌐 Live Demo](https://fruitbountyshop.vercel.app)** &nbsp;|&nbsp; **[📂 Source Code](https://github.com/fruitbountyshop/fruitbountyshop)**
+### Fruits Bounty
+**Full-Stack E-Commerce Platform**
 
-| Feature | Detail |
-|---|---|
-| 🏗️ Stack | [React.js](https://react.dev) · [Tailwind CSS](https://tailwindcss.com) · [Razorpay](https://razorpay.com) · REST API · [Vercel](https://vercel.com) |
-| ⚡ Performance | **[90+ Lighthouse score](https://fruitbountyshop.vercel.app)** — lazy loading, code splitting, asset optimisation |
-| 🛒 Features | Product listing · Cart state management · Checkout flow · Razorpay payment UI |
-| 📊 Admin | Real-time order tracking dashboard |
+MERN Stack · Razorpay · Redux Toolkit · Tailwind CSS
 
----
+Production-grade e-commerce platform with Razorpay payment integration, inventory management, and an admin dashboard for real-time order tracking. Custom fruit-bowl ordering logic with Redux-based cart state.
 
-### ✅ Task Management System
+**Highlights**
+- 100% mobile responsiveness with sub-2-second load times
+- Lazy loading and optimized MongoDB queries
+- CI/CD via GitHub, deployed on Vercel + Render
 
-> **[📂 Source Code](https://github.com/vedantilamedev/Task-Management-System)**
+</td>
+<td width="50%" valign="top">
 
-| Feature | Detail |
-|---|---|
-| 🏗️ Stack | [React.js](https://react.dev) · [Tailwind CSS](https://tailwindcss.com) · [MongoDB](https://mongodb.com) · REST API |
-| 🔄 Architecture | Component-based SPA with optimised re-render cycles |
-| ⚙️ Features | Dynamic task filtering · Real-time CRUD · Progress visualisation |
-| 📱 Design | Mobile-first responsive across all breakpoints |
+### Task Management System
+**Full-Stack Productivity Tool**
 
----
+MERN Stack · Redux Toolkit · REST API · Tailwind CSS
 
-### 🌤️ Weather Forecasting App
+Full-stack task manager built on a RESTful Node.js/Express API with real-time CRUD operations, dynamic filtering, and progress visualization.
 
-> **[🌐 Live Demo](https://vedantilame22.github.io/PRODIGY_WD_04/)** &nbsp;|&nbsp; **[📂 Source Code](https://github.com/Vedantilame22/PRODIGY_WD_05)**
+**Highlights**
+- Centralized Redux state management
+- 40% reduction in unnecessary re-renders
 
-| Feature | Detail |
-|---|---|
-| 🏗️ Stack | HTML5 · CSS3 · Vanilla JavaScript · [OpenWeather API](https://openweathermap.org/api) |
-| 🎨 UI | Praised by [Prodigy Infotech](https://prodigyinfotech.dev) reviewers for UI/UX quality over peer submissions |
-| ⚙️ Features | Async REST API calls · Dynamic DOM updates · Fully custom CSS layout |
-| 🚫 No frameworks | Core frontend fundamentals — zero dependencies |
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
----
+### Global News Network
+**AI-Verified News Aggregator**
 
-## 💼 Experience
+MERN Stack · Times of India API · NLP · Sentiment Analysis
 
-| Period | Role | Company |
-|---|---|---|
-| Dec 2025 – Mar 2026 | 🟢 Frontend Developer Intern | [Graphura India Pvt. Ltd.](https://www.linkedin.com/company/graphura-india) |
-| Jun 2025 – Jul 2025 | 🟡 Web Development Intern | [Prodigy Infotech](https://prodigyinfotech.dev) |
-| Oct 2024 – Dec 2024 | 🔵 Android Developer Intern | [Eduskills · AICTE](https://eduskillsfoundation.org) |
+Real-time news platform fetching live headlines via the Times of India API, paired with a verification model that flags content as true or false and a sentiment analysis module for tone.
 
-```
-✓ Graphura  →  Production React components · Zero UI regression · Memoisation optimisation
-✓ Prodigy   →  5 projects in 8 weeks · REST API integration · Recognised for UI/UX quality
-✓ Eduskills →  AICTE-certified Android UI curriculum · Cross-platform UI/UX principles
-```
+**Highlights**
+- Custom news authenticity verification model
+- Sentiment-tagged articles across categories
 
----
+</td>
+<td width="50%" valign="top">
 
-## 🎓 Education
+### Personal Portfolio Website
+**React Portfolio**
 
-| Degree | Institution | Year | Score |
+React.js · MERN Technologies · Tailwind CSS
+
+Responsive personal portfolio showcasing projects, skills, and internship experience, built with a reusable component architecture.
+
+**Highlights**
+- Smooth navigation and fast load times across devices
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## Experience
+<br/>
+
+## Certifications
+
+<table>
+<tr>
+<td width="50%">
+
+**Introduction to AI Concepts**
+Microsoft — Jul 2026
+
+</td>
+<td width="50%">
+
+**Cloud Computing**
+NPTEL — Jul 2025 – Oct 2025
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**Social Networks**
+NPTEL — Jan 2025 – Apr 2025
+
+</td>
+<td width="50%">
+
+**AI-ML Virtual Internship**
+Eduskills | AICTE — Apr 2024 – Jun 2024
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## Education
+
+| Degree | Institution | Score | Year |
 |---|---|---|---|
-| BTech — Computer Science & Engineering | [JD College of Engineering, Nagpur](https://jdcoem.ac.in) | 2026 | CGPA **8.4** |
-| XII — Maharashtra State Board | Jawaharlal Darda Jr. College, Yavatmal | 2022 | **85.33%** |
-| X — CBSE | [Podar International School, Yavatmal](https://www.podar.org) | 2020 | **88.88%** |
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vedantilame22&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&count_private=true)](https://github.com/vedantilame22?tab=repositories)
-&nbsp;
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vedantilame22&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=6)](https://github.com/vedantilame22?tab=repositories)
+| B.Tech, Computer Science | JD College of Engineering and Management, Nagpur | CGPA 8.16 | 2026 |
+| XII, Maharashtra State Board | Jawaharlal Darda Junior College, Yavatmal | 85.33% | 2022 |
+| X, CBSE | Podar International School, Yavatmal | 88.88% | 2020 |
 
 <br/>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=vedantilame22&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=21262d&ring=58a6ff&fire=f9752a&currStreakLabel=58a6ff)](https://github.com/vedantilame22?tab=overview)
+## GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=vedantilame22&show_icons=true&theme=default&hide_border=true&bg_color=ffffff&title_color=2563EB&icon_color=2563EB&text_color=1e293b" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vedantilame22&layout=compact&hide_border=true&bg_color=ffffff&title_color=2563EB&text_color=1e293b" width="48%"/>
+
+<img src="https://streak-stats.demolab.com?user=vedantilame22&theme=default&hide_border=true&background=ffffff&stroke=2563EB&ring=2563EB&fire=2563EB&currStreakLabel=2563EB" width="97%"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=vedantilame22&theme=minimal&hide_border=true&bg_color=ffffff&color=1e293b&line=2563EB&point=2563EB" width="97%"/>
 
 </div>
 
----
+<br/>
 
-## 🏆 Certifications & Leadership
-
-**Certifications**
-
-[![NPTEL Cloud Computing](https://img.shields.io/badge/NPTEL-Cloud_Computing_·_2025-0a66c2?style=flat-square&logo=coursera&logoColor=white)](https://nptel.ac.in/courses/106/105/106105247/)
-[![NPTEL Social Networks](https://img.shields.io/badge/NPTEL-Social_Networks_·_2025-0a66c2?style=flat-square&logo=coursera&logoColor=white)](https://nptel.ac.in/courses/106/106/106106168/)
-[![AICTE AI-ML](https://img.shields.io/badge/AICTE-AI--ML_·_2024-f9752a?style=flat-square&logo=google&logoColor=white)](https://eduskillsfoundation.org)
-[![AICTE Android](https://img.shields.io/badge/AICTE-Android_Dev_·_2024-3ddc84?style=flat-square&logo=android&logoColor=white)](https://eduskillsfoundation.org)
-
-**Leadership @ [JDCOEM Nagpur](https://jdcoem.ac.in)**
-
-- 🎙️ **Publicity Committee Head** — Schologamma Forum (2024–25)
-- 🎨 **Creative Committee Head** — Ajeet Forum (2022–23)
-- 🌐 **Member** — [Rotaract Club](https://www.rotary.org/en/get-involved/rotaract-clubs), JDCOEM (2024–25)
-
----
-
-## 📬 Let's Connect
+## Connect
 
 <div align="center">
 
-If you're looking for a frontend developer who ships clean, fast, production-ready UIs — let's talk.
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-ffffff?style=flat-square&logo=linkedin&logoColor=2563EB)](https://linkedin.com/in/vedantilame22)
+[![GitHub](https://img.shields.io/badge/-GitHub-ffffff?style=flat-square&logo=github&logoColor=1e293b)](https://github.com/vedantilame22)
+[![Email](https://img.shields.io/badge/-Email-ffffff?style=flat-square&logo=gmail&logoColor=2563EB)](mailto:vedantilame22@gmail.com)
 
-[![Connect on LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vedantilame22)
-&nbsp;
-[![Send an Email](https://img.shields.io/badge/Send_an_Email-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vedantilame22@gmail.com)
-&nbsp;
-[![See Live Work](https://img.shields.io/badge/See_Live_Work-3fb950?style=for-the-badge&logo=vercel&logoColor=white)](https://fruitbountyshop.vercel.app)
-&nbsp;
-[![All Repos](https://img.shields.io/badge/All_Repos-161b22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vedantilame22?tab=repositories)
+</div>
 
 <br/>
 
-[![Nagpur India](https://img.shields.io/badge/📍_Nagpur,_India-0d1117?style=flat-square)](https://maps.app.goo.gl/KVnFTXNXYnJzPy4e8)
-&nbsp;·&nbsp;
-[![JDCOEM](https://img.shields.io/badge/🎓_BTech_CS_'26_·_JDCOEM-0d1117?style=flat-square)](https://jdcoem.ac.in)
-&nbsp;·&nbsp;
-[![Open to Work](https://img.shields.io/badge/⚡_Open_to_Frontend_Roles-238636?style=flat-square)](https://linkedin.com/in/vedantilame22)
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,100:0d1117&height=80&section=footer"/>
-
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E3A8A,100:2563EB&height=100&section=footer" width="100%"/>
 </div>
