@@ -182,20 +182,7 @@ Eduskills | AICTE — Apr 2024 – Jun 2024
 
 <br/>
 
-## GitHub Stats
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=vedantilame22&show_icons=true&theme=default&hide_border=true&bg_color=ffffff&title_color=2563EB&icon_color=2563EB&text_color=1e293b" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vedantilame22&layout=compact&hide_border=true&bg_color=ffffff&title_color=2563EB&text_color=1e293b" width="48%"/>
-
-<img src="https://streak-stats.demolab.com?user=vedantilame22&theme=default&hide_border=true&background=ffffff&stroke=2563EB&ring=2563EB&fire=2563EB&currStreakLabel=2563EB" width="97%"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=vedantilame22&theme=minimal&hide_border=true&bg_color=ffffff&color=1e293b&line=2563EB&point=2563EB" width="97%"/>
-
-</div>
-
-<br/>
 
 ## Connect
 
