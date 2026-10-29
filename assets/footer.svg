@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 80" width="100%" height="80" fill="none">
+  <defs>
+    <linearGradient id="footerBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0B0F19"/>
+      <stop offset="100%" stop-color="#070A12"/>
+    </linearGradient>
+    <linearGradient id="footerLine" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#38BDF8" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#6366F1" stop-opacity="0.8"/>
+      <stop offset="100%" stop-color="#10B981" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="80" rx="12" fill="url(#footerBg)"/>
+  <rect x="50" y="1" width="800" height="1.5" fill="url(#footerLine)"/>
+  <text x="450" y="44" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13" fill="#64748B" letter-spacing="0.5">
+    Crafted with code, creativity &amp; precision by <tspan fill="#38BDF8" font-weight="600">Vedant Ilame</tspan> • 2026
+  </text>
+</svg>

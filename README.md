@@ -1,164 +1,122 @@
 <div align="center">
 
-  <!-- Animated Header Wave Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,14,24&height=230&section=header&text=Vedant%20Ilame&fontSize=62&fontAlignY=36&desc=Software%20Developer%20%7C%20Frontend%20%26%20MERN%20Stack%20%7C%20AI%20%26%20Design%20Enthusiast&descFontSize=20&descAlignY=60&fontColor=ffffff" width="100%" alt="Vedant Ilame Header Banner" />
-
-  <!-- Dynamic Typing SVG Animation -->
+  <!-- Native SVG Header Banner (Zero-Latency, Crisp Vector, 100% Reliable) -->
   <a href="https://github.com/vedantilame22">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=22C55E&center=true&vCenter=true&width=650&lines=%F0%9F%91%8B+Hi+there!+I'm+Vedant+Ilame;%F0%9F%9A%80+Software+Intern+%40+Sthapatya+Consultants;%F0%9F%92%BB+Full-Stack+MERN+%26+Frontend+Developer;%F0%9F%A4%96+Passionate+about+AI%2FML+%26+Generative+AI;%F0%9F%8E%A8+Blending+Clean+Code+with+Intuitive+Design" alt="Typing SVG" />
+    <img src="assets/header.svg" width="100%" alt="Vedant Yogesh Ilame Header Banner" />
+  </a>
+
+  <br/><br/>
+
+  <!-- Dynamic Typing Animation -->
+  <a href="https://github.com/vedantilame22">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1200&color=38BDF8&center=true&vCenter=true&width=700&lines=%F0%9F%91%8B+Hi+there!+I'm+Vedant+Yogesh+Ilame;%F0%9F%92%BB+Full-Stack+Web+Developer+%26+Frontend+Engineer;%F0%9F%9A%80+Building+Scalable+MERN+%26+Next.js+Web+Applications;%F0%9F%A4%96+Passionate+about+Generative+AI%2C+LLMs+%26+Prompt+Engineering;%F0%9F%8E%A8+Bridging+Robust+Architecture+with+Clean+UI%2FUX+Design;%F0%9F%8E%AF+Actively+Seeking+Software+Development+Engineer+(SDE)+Roles" alt="Vedant Ilame - Typing SVG" />
   </a>
 
   <p align="center">
-    <strong>Crafting responsive, high-performance web experiences where creativity meets robust engineering.</strong>
+    <strong>Computer Science Engineer • Full-Stack Developer • Generative AI & UI/UX Enthusiast</strong>
   </p>
 
-  <!-- Interactive Badges & Quick Links -->
+  <!-- Connect & Social Badges -->
   <p align="center">
-    <a href="https://www.linkedin.com/in/vedantilame22" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-    <a href="mailto:vedantilame22@gmail.com">
-      <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-    </a>
-    <a href="https://github.com/vedantilame22">
-      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-    </a>
-    <a href="https://github.com/vedantilame22?tab=repositories">
-      <img src="https://img.shields.io/badge/Projects-00D26A?style=for-the-badge&logo=sparkles&logoColor=white" alt="Projects" />
-    </a>
+    <a href="https://www.linkedin.com/in/vedantilame22" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="mailto:vedantilame22@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+    <a href="https://github.com/vedantilame22"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+    <a href="https://github.com/vedantilame22?tab=repositories"><img src="https://img.shields.io/badge/Projects-2563EB?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Portfolio Projects" /></a>
   </p>
 
-  <!-- Visitor Counter & Status Badges -->
+  <!-- Metric Badges Row -->
   <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=vedantilame22&style=flat-square&color=22c55e&label=PROFILE+VIEWS" alt="Profile Views" />
-    <img src="https://img.shields.io/badge/Status-Actively%20Seeking%20SDE%20Roles-blue?style=flat-square&color=3b82f6" alt="Status" />
-    <img src="https://img.shields.io/badge/Location-Maharashtra%2C%20India-orange?style=flat-square&color=f97316" alt="Location" />
+    <img src="https://komarev.com/ghpvc/?username=vedantilame22&style=flat-square&color=2563eb&label=PROFILE+VIEWS" alt="Profile Views" />
+    <img src="https://img.shields.io/badge/Target-Software%20Development%20Engineer%20(SDE)-0ea5e9?style=flat-square" alt="Target Role" />
+    <img src="https://img.shields.io/badge/Status-Actively%20Seeking%20Opportunities-10b981?style=flat-square" alt="Status" />
+    <img src="https://img.shields.io/badge/Education-B.Tech%20CSE%20'26%20(8.16%20CGPA)-6366f1?style=flat-square" alt="Education" />
   </p>
 
 </div>
 
 ---
 
-### 👨‍💻 Quick Terminal Profile
+## 👨‍💻 Executive Summary
 
-```yaml
-user@vedant-ilame:~$ cat profile.json
-{
-  "name": "Vedant Yogesh Ilame",
-  "current_role": "Software Intern @ STHAPATYA CONSULTANTS (I) PVT. LTD.",
-  "education": "B.Tech in Computer Science | JDCOEM Nagpur (2022 - 2026)",
-  "academic_score": "CGPA: 8.16 / 10",
-  "focus_areas": [
-    "Full-Stack Web Development (MERN, TypeScript, Next.js)",
-    "Modern Frontend Architecture (React, AngularJS, Tailwind CSS)",
-    "Generative AI & LLM Integration (OpenAI API, Prompt Engineering)",
-    "UI/UX Design & Creative Direction"
-  ],
-  "leadership": [
-    "Publicity Committee Head @ Schologamma Forum (2024-25)",
-    "Creative Committee Head @ Ajeet Forum (2022-23)",
-    "Active Rotaract Club Member"
-  ],
-  "target_roles": ["Software Development Engineer (SDE)", "Full-Stack Developer", "Frontend Engineer"]
-}
-```
+> *"Engineering scalable digital systems where clean architecture meets intuitive user experience."*
+
+I am a **Computer Science Graduate (B.Tech '26)** with comprehensive experience across **Full-Stack Web Development (MERN, Next.js)**, **Generative AI**, and **Modern Frontend Engineering**, honed through four specialized internships and end-to-end production projects.
+
+- 🔭 **Core Competencies**: Architecture and deployment of production-grade web applications using React.js, Redux Toolkit, Node.js, Express.js, TypeScript, and MongoDB.
+- 🤖 **AI & Intelligence**: Exploring the frontier of Generative AI, LLMs, prompt engineering, and automated NLP sentiment/authenticity pipelines.
+- 📱 **Mobile & Distributed Systems**: Hands-on Android native application development and certified foundation in Cloud Computing infrastructure.
+- 🎨 **Creative Leadership**: Former **Publicity Committee Head** (Schologamma Forum) & **Creative Committee Head** (Ajeet Forum), combining technical excellence with creative direction and team management.
+- 🎯 **Career Focus**: Actively seeking **Software Development Engineer (SDE)** and **Full-Stack Developer** opportunities to build high-impact, performant software.
 
 ---
 
-## 💼 Work Experience & Career Journey
-
-<div align="left">
-
-```
- 2024                2025                                 2026
-  ├── [Apr - Jun]    AI/ML Intern (AICTE & EduSkills)
-  ├── [Oct - Dec]    Android Developer Intern (AICTE & EduSkills)
-  │                   ├── [Jun - Dec]   Web Developer Intern (Prodigy InfoTech)
-  │                   │                  ├── [Dec - Mar]   Frontend Developer (Graphura India)
-  │                   │                  │                  └── [Sep - Present] Software Intern (Sthapatya Consultants) 🚀
-```
-
-</div>
+## 💼 Professional Experience & Internships
 
 <table>
   <thead>
     <tr>
-      <th width="30%">Company / Organization</th>
-      <th width="25%">Role & Duration</th>
-      <th width="45%">Key Highlights & Technologies</th>
+      <th width="32%">Organization</th>
+      <th width="24%">Role & Duration</th>
+      <th width="44%">Key Achievements & Core Technologies</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td>
-        <b>🏢 STHAPATYA CONSULTANTS (I) PVT. LTD.</b><br/>
-        <sub>Nagpur / Amravati, MH</sub>
-      </td>
-      <td>
-        <b>Software Intern</b><br/>
-        <code>Sep 2026 – Present</code>
-      </td>
-      <td>
-        • Architecting and developing enterprise-grade software solutions.<br/>
-        • Engineering modular, interactive UI components using <b>TypeScript</b>, <b>AngularJS</b>, and <b>C#</b>.<br/>
-        • Collaborating on full-cycle application performance and database workflows.
-      </td>
-    </tr>
-    <tr>
-      <td>
         <b>🚀 Graphura India Private Limited</b><br/>
-        <sub>Remote / Nagpur, MH</sub>
+        <sub>Nagpur, Maharashtra (Remote)</sub>
       </td>
       <td>
         <b>Frontend Developer Intern</b><br/>
         <code>Dec 2025 – Mar 2026</code>
       </td>
       <td>
-        • Engineered responsive, pixel-perfect frontend interfaces using <b>React.js</b>, <b>Tailwind CSS</b>, and <b>REST APIs</b>.<br/>
-        • Implemented reusable UI components, optimizing page load times and state reactivity.<br/>
-        • Partnered with cross-functional teams to elevate user experience across client portals.
+        • Architected and shipped modular, accessible frontend components using <b>React.js</b>, <b>Tailwind CSS</b>, and <b>REST APIs</b>.<br/>
+        • Enhanced page speed, responsiveness, and state handling across core customer-facing platforms.<br/>
+        • Collaborated closely with cross-functional design and backend teams to ensure pixel-perfect fidelity.
       </td>
     </tr>
     <tr>
       <td>
         <b>💻 Prodigy InfoTech</b><br/>
-        <sub>Remote / Nagpur, MH</sub>
+        <sub>Nagpur, Maharashtra (Remote)</sub>
       </td>
       <td>
         <b>Web Developer Intern</b><br/>
         <code>Jun 2025 – Dec 2025</code>
       </td>
       <td>
-        • Built and deployed interactive web applications emphasizing cross-browser compatibility and mobile responsiveness.<br/>
-        • Strengthened JavaScript fundamentals, modern DOM manipulation, and frontend design patterns.
+        • Developed full-featured, responsive web interfaces focusing on intuitive navigation and user experience.<br/>
+        • Implemented dynamic client-side interactivity, DOM optimizations, and cross-browser validation.<br/>
+        • Delivered clean, production-ready code aligned with modern web standards and agile practices.
       </td>
     </tr>
     <tr>
       <td>
         <b>📱 EduSkills Foundation® & AICTE</b><br/>
-        <sub>Virtual Internship</sub>
+        <sub>Virtual Internship Program</sub>
       </td>
       <td>
         <b>Android Developer Intern</b><br/>
         <code>Oct 2024 – Dec 2024</code>
       </td>
       <td>
-        • Developed native Android applications using industry-standard SDK tools.<br/>
-        • Focused on clean mobile UI design, Android lifecycles, and user-friendly mobile experiences.
+        • Built native Android applications covering core lifecycle management, modern UI patterns, and Android SDK tooling.<br/>
+        • Gained practical exposure to mobile architecture patterns and efficient asset management.
       </td>
     </tr>
     <tr>
       <td>
         <b>🤖 EduSkills Foundation® & AICTE</b><br/>
-        <sub>Virtual Internship</sub>
+        <sub>Virtual Internship Program</sub>
       </td>
       <td>
         <b>AI / ML Intern</b><br/>
         <code>Apr 2024 – Jun 2024</code>
       </td>
       <td>
-        • Explored foundational machine learning pipelines, data preprocessing, and model training in <b>Python</b>.<br/>
-        • Implemented and evaluated practical predictive algorithms and regression models.
+        • Developed practical machine learning workflows utilizing <b>Python</b>, data preprocessing, and model evaluation.<br/>
+        • Trained, tuned, and evaluated supervised predictive models with industry-standard benchmarks.
       </td>
     </tr>
   </tbody>
@@ -166,20 +124,20 @@ user@vedant-ilame:~$ cat profile.json
 
 ---
 
-## 🛠️ Technical Arsenal & Skills Matrix
+## 🛠️ Technical Arsenal & Skill Matrix
 
 <div align="center">
 
-### 💻 Languages & Frameworks Icons
+### Languages & Frameworks
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=ts,js,python,java,cs,react,angular,nextjs,nodejs,express,mongodb,mysql,tailwind,bootstrap,html,css&perline=8" alt="Tech Skills Icons" />
+  <img src="https://skillicons.dev/icons?i=ts,js,python,java,cs,react,angular,nextjs,nodejs,express,mongodb,mysql,tailwind,bootstrap,html,css&perline=8" alt="Tech Stack Icons" />
 </a>
 
 <br/>
 
-### ⚙️ Developer Tools & Design Suite
+### Developer Tools & Design Suite
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,figma&perline=6" alt="Developer Tools Icons" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,figma&perline=6" alt="Tools Icons" />
 </a>
 
 </div>
@@ -187,24 +145,25 @@ user@vedant-ilame:~$ cat profile.json
 <br/>
 
 <details open>
-<summary><b>🔍 Click to expand categorized skillset details</b></summary>
+<summary><b>🔍 Click to view structured domain-wise breakdown</b></summary>
 <br/>
 
-| Category | Technologies & Tools |
+| Technical Domain | Competencies & Technologies |
 | :--- | :--- |
 | **Languages** | `TypeScript` `JavaScript (ES6+)` `Python` `Java` `C#` `SQL` `HTML5` `CSS3` |
-| **Frontend Ecosystem** | `React.js` `AngularJS` `Next.js` `Redux / Redux Toolkit` `Tailwind CSS` `Bootstrap` `Responsive UI/UX` |
-| **Backend & Databases** | `Node.js` `Express.js` `RESTful APIs` `MongoDB` `MySQL` `Brevo (Sendinblue)` |
-| **AI, GenAI & ML** | `Generative AI (GenAI)` `Large Language Models (LLMs)` `Prompt Engineering` `OpenAI API` `LangChain (Basics)` `NLP` `Sentiment Analysis` `TensorFlow` |
-| **Mobile Development** | `Android Development` `Mobile UI Architecture` `Java / Kotlin` |
-| **DevOps & Platforms** | `Git` `GitHub` `VS Code` `Postman` `Vercel` `Render` `CI/CD Pipelines` `NPTEL Cloud Computing` |
-| **UI/UX & Creative** | `Figma` `Wireframing & Prototyping` `Creative Direction` `Videography` `Calligraphy` |
+| **Frontend Engineering** | `React.js` `Next.js` `AngularJS` `Redux / Redux Toolkit` `Tailwind CSS` `Bootstrap` `Responsive UI/UX` |
+| **Backend & APIs** | `Node.js` `Express.js` `RESTful APIs` `Brevo (Sendinblue)` `JWT Auth` `Middleware Architecture` |
+| **Databases** | `MongoDB` `MySQL` `Mongoose` `Query Optimization` `Schema Design` |
+| **AI, GenAI & ML** | `Generative AI (GenAI)` `Large Language Models (LLMs)` `Prompt Engineering` `OpenAI API` `LangChain (Basics)` `NLP` `Sentiment Analysis` `TensorFlow (Basics)` |
+| **Mobile Development** | `Android SDK` `Java / Kotlin` `Mobile UI Architecture` `Lifecycle Management` |
+| **Cloud & DevOps** | `Git` `GitHub` `VS Code` `Postman` `Vercel` `Render` `CI/CD Pipelines` `NPTEL Cloud Computing` |
+| **Design & Leadership** | `Figma` `UI/UX Wireframing` `Creative Direction` `Videography` `Calligraphy` |
 
 </details>
 
 ---
 
-## 🌟 Featured Projects
+## 🌟 Featured Engineering Projects
 
 <table>
   <tr>
@@ -219,10 +178,10 @@ user@vedant-ilame:~$ cat profile.json
         <img src="https://img.shields.io/badge/Razorpay-02042B?style=flat-square&logo=razorpay&logoColor=white" />
       </p>
       <ul>
-        <li>Architected an end-to-end full-stack e-commerce marketplace featuring dynamic fruit-bowl customization logic.</li>
+        <li>Architected an end-to-end MERN e-commerce marketplace featuring custom dynamic fruit-bowl assembly logic.</li>
         <li>Integrated secure <b>Razorpay payment gateway</b>, inventory management, and real-time Admin order tracking.</li>
         <li>Achieved 100% mobile responsiveness and <b>sub-2s page load speeds</b> via query indexing and lazy loading.</li>
-        <li>Continuous deployment with CI/CD on <b>Vercel</b> (Frontend) & <b>Render</b> (Backend).</li>
+        <li>Automated CI/CD pipelines deployed across <b>Vercel</b> (Frontend) and <b>Render</b> (Backend).</li>
       </ul>
       <p align="center">
         <a href="https://github.com/vedantilame22/fruitbountyshop"><b>View Code Repository ➔</b></a>
@@ -235,13 +194,13 @@ user@vedant-ilame:~$ cat profile.json
         <img src="https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black" />
         <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
         <img src="https://img.shields.io/badge/NLP-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
-        <img src="https://img.shields.io/badge/Times%20of%20India%20API-red?style=flat-square" />
+        <img src="https://img.shields.io/badge/Sentiment%20Analysis-8B5CF6?style=flat-square" />
       </p>
       <ul>
-        <li>Aggregates live news in real time across multiple categories via third-party media APIs.</li>
-        <li>Trained an NLP verification classifier to flag content authenticity and detect potential misinformation.</li>
-        <li>Integrated an automated <b>sentiment analysis engine</b> to categorize tone, perspective, and bias in real time.</li>
-        <li>Clean, intuitive user interface optimized for seamless mobile and desktop reading.</li>
+        <li>Aggregates live headlines in real time across multiple news categories via media APIs.</li>
+        <li>Trained an NLP verification classifier to evaluate authenticity and flag potential misinformation.</li>
+        <li>Built an automated <b>sentiment analysis engine</b> to gauge tone, bias, and perspective across articles.</li>
+        <li>Modern, responsive interface engineered for high readability on both desktop and mobile.</li>
       </ul>
       <p align="center">
         <a href="https://github.com/vedantilame22"><b>Explore AI Aggregator ➔</b></a>
@@ -259,9 +218,9 @@ user@vedant-ilame:~$ cat profile.json
         <img src="https://img.shields.io/badge/REST%20API-blue?style=flat-square" />
       </p>
       <ul>
-        <li>Developed a robust task tracker featuring full CRUD capabilities, dynamic category filtering, and status visualizers.</li>
-        <li>Engineered centralized <b>Redux Toolkit state management</b>, eliminating redundant re-renders by <b>40%</b>.</li>
-        <li>Modular Express REST APIs with JWT authentication and granular error-handling middleware.</li>
+        <li>Engineered a robust task manager with complete CRUD functionality, dynamic filtering, and status visualizers.</li>
+        <li>Implemented centralized <b>Redux Toolkit state management</b>, eliminating redundant re-renders by <b>40%</b>.</li>
+        <li>Constructed modular Express REST APIs with JWT authentication and robust error-handling middleware.</li>
       </ul>
       <p align="center">
         <a href="https://github.com/vedantilame22"><b>View System Repo ➔</b></a>
@@ -276,9 +235,9 @@ user@vedant-ilame:~$ cat profile.json
         <img src="https://img.shields.io/badge/UI%2FUX-Design-FF7262?style=flat-square&logo=figma&logoColor=white" />
       </p>
       <ul>
-        <li>Showcases professional internships, verified certifications, live apps, and engineering accomplishments.</li>
-        <li>Crafted custom responsive components, micro-animations, and smooth section transitions.</li>
-        <li>Optimized for speed, SEO performance, accessibility, and high visual appeal across all screen sizes.</li>
+        <li>Comprehensive developer portfolio showcasing engineering projects, verified credentials, and internships.</li>
+        <li>Engineered reusable component architecture, smooth navigation, and optimized assets for fast load times.</li>
+        <li>High SEO scores, responsive breakpoints, and modern aesthetic typography.</li>
       </ul>
       <p align="center">
         <a href="https://github.com/vedantilame22"><b>Explore Live Portfolio ➔</b></a>
@@ -289,10 +248,10 @@ user@vedant-ilame:~$ cat profile.json
 
 ---
 
-## 📜 Certifications & Continuous Learning
+## 📜 Verified Credentials & Education
 
 <details>
-<summary><b>🎓 Click to inspect verified credentials & academic achievements</b></summary>
+<summary><b>🎓 Click to inspect certifications and academic background</b></summary>
 <br/>
 
 - 🧠 **Microsoft Certified**: Introduction to AI Concepts *(Jul 2026)*
@@ -300,7 +259,9 @@ user@vedant-ilame:~$ cat profile.json
 - 🌐 **NPTEL**: Social Networks — Mathematical Graph Modeling, Information Flow & Social Algorithms *(Jan 2025 – Apr 2025)*
 - 🤖 **AICTE & EduSkills**: AI/ML Virtual Internship *(Apr 2024 – Jun 2024)*
 - 📱 **AICTE & EduSkills**: Android Developer Virtual Internship *(Oct 2024 – Dec 2024)*
-- 🎓 **B.Tech in Computer Science**: JD College of Engineering & Management, Nagpur (2022 – 2026) | **CGPA: 8.16**
+- 🎓 **B.Tech, Computer Science**: JD College of Engineering & Management, Nagpur (2022 – 2026) | **CGPA: 8.16 / 10**
+- 🏫 **HSC (XII), Maharashtra State Board**: Jawaharlal Darda Junior College, Yavatmal — **85.33%** (2022)
+- 🏫 **CBSE (X)**: Podar International School, Yavatmal — **88.88%** (2020)
 
 </details>
 
@@ -308,69 +269,57 @@ user@vedant-ilame:~$ cat profile.json
 
 ## 👥 Leadership & Extracurricular Impact
 
-> *"Great software is built by teams that communicate seamlessly, innovate boldly, and lead with empathy."*
-
 - 📢 **Publicity Committee Head — Schologamma Forum, JDCOEM (2024 – 2025)**  
-  Spearheaded departmental outreach, event marketing, and digital campaigns, driving record participation across technical symposiums.
+  Spearheaded student outreach, public relations campaigns, and technical event promotion, driving substantial engagement across department initiatives.
 - 🎨 **Creative Committee Head — Ajeet Forum, JDCOEM (2022 – 2023)**  
-  Directed visual branding, stage design, multimedia assets, and creative presentations for annual flagship collegiate events.
+  Directed visual branding, multimedia creative design, and stage presentations for annual flagship college symposiums.
 - 🤝 **Member — Rotaract Club JDCOEM (2024 – 2025)**  
-  Participated in community welfare drives, youth leadership workshops, and collaborative social impact initiatives.
+  Participated in community welfare drives, student mentorship, and collaborative social impact programs.
 
 ---
 
-## 📊 Live GitHub Analytics & Activity
+## 📊 GitHub Analytics & Activity
 
 <div align="center">
 
   <table border="0">
     <tr>
       <td align="center" width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=vedantilame22&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D26A&text_color=94A3B8&icon_color=00D26A" width="100%" alt="Vedant's GitHub Stats" />
+        <img src="https://github-readme-stats.vercel.app/api?username=vedantilame22&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=94A3B8&icon_color=38BDF8" width="100%" alt="Vedant's GitHub Stats" />
       </td>
       <td align="center" width="50%">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vedantilame22&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D26A&text_color=94A3B8" width="100%" alt="Top Languages" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vedantilame22&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=94A3B8" width="100%" alt="Top Languages" />
       </td>
     </tr>
   </table>
 
   <br/>
 
-  <img src="https://streak-stats.demolab.com?user=vedantilame22&theme=radical&hide_border=true&background=0D1117&ring=00D26A&fire=00D26A&currStreakNum=00D26A&sideNums=94A3B8&sideLabels=94A3B8&dates=94A3B8" width="85%" alt="GitHub Streak Stats" />
+  <img src="https://streak-stats.demolab.com?user=vedantilame22&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=38BDF8&currStreakNum=38BDF8&sideNums=94A3B8&sideLabels=94A3B8&dates=94A3B8" width="85%" alt="GitHub Streak Stats" />
 
   <br/><br/>
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vedantilame22&theme=react-dark&bg_color=0D1117&color=00D26A&line=00D26A&point=38BDF8&area=true&hide_border=true" width="95%" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vedantilame22&theme=react-dark&bg_color=0D1117&color=38BDF8&line=38BDF8&point=6366F1&area=true&hide_border=true" width="95%" alt="Activity Graph" />
 
 </div>
 
 ---
 
-## 💬 Get In Touch & Collaborate
+## 💬 Let's Connect
 
-Whether you're looking to discuss a software role, collaborate on a cutting-edge web/AI project, or just talk tech and design — my inbox is always open!
+Open to full-time Software Development Engineer (SDE) roles, full-stack opportunities, or collaborative web/AI projects.
 
 <div align="center">
 
-  <a href="https://www.linkedin.com/in/vedantilame22">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
-  </a>
+  <a href="https://www.linkedin.com/in/vedantilame22" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" /></a>
   &nbsp;
-  <a href="mailto:vedantilame22@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Send%20an%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Send an Email" />
-  </a>
+  <a href="mailto:vedantilame22@gmail.com"><img src="https://img.shields.io/badge/Gmail-Send%20an%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Send an Email" /></a>
   &nbsp;
-  <a href="https://github.com/vedantilame22">
-    <img src="https://img.shields.io/badge/GitHub-Follow%20%40vedantilame22-181717?style=for-the-badge&logo=github&logoColor=white" alt="Follow on GitHub" />
-  </a>
+  <a href="https://github.com/vedantilame22"><img src="https://img.shields.io/badge/GitHub-Follow%20%40vedantilame22-181717?style=for-the-badge&logo=github&logoColor=white" alt="Follow on GitHub" /></a>
 
   <br/><br/>
 
-  <!-- Footer Wave Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,14,24&height=120&section=footer" width="100%" alt="Footer Banner" />
-
-  <p align="center">
-    <sub>⚡ Designed with passion & precision by <b>Vedant Ilame</b> | <i>"Where code meets creativity."</i></sub>
-  </p>
+  <!-- Footer Banner -->
+  <img src="assets/footer.svg" width="100%" alt="Footer Banner" />
 
 </div>

@@ -1,0 +1,113 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 220" width="100%" height="220" fill="none">
+  <defs>
+    <!-- Background Gradient -->
+    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0B0F19"/>
+      <stop offset="50%" stop-color="#111827"/>
+      <stop offset="100%" stop-color="#070A12"/>
+    </linearGradient>
+
+    <!-- Accent Glow Radial Gradients -->
+    <radialGradient id="glowCyan" cx="15%" cy="30%" r="45%">
+      <stop offset="0%" stop-color="#06B6D4" stop-opacity="0.25"/>
+      <stop offset="100%" stop-color="#06B6D4" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowIndigo" cx="85%" cy="70%" r="50%">
+      <stop offset="0%" stop-color="#6366F1" stop-opacity="0.3"/>
+      <stop offset="100%" stop-color="#6366F1" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowEmerald" cx="50%" cy="100%" r="40%">
+      <stop offset="0%" stop-color="#10B981" stop-opacity="0.2"/>
+      <stop offset="100%" stop-color="#10B981" stop-opacity="0"/>
+    </radialGradient>
+
+    <!-- Text Gradient -->
+    <linearGradient id="textGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#FFFFFF"/>
+      <stop offset="40%" stop-color="#E0E7FF"/>
+      <stop offset="80%" stop-color="#38BDF8"/>
+      <stop offset="100%" stop-color="#818CF8"/>
+    </linearGradient>
+
+    <!-- Border Gradient -->
+    <linearGradient id="borderGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#38BDF8" stop-opacity="0.6"/>
+      <stop offset="50%" stop-color="#6366F1" stop-opacity="0.3"/>
+      <stop offset="100%" stop-color="#10B981" stop-opacity="0.5"/>
+    </linearGradient>
+
+    <linearGradient id="pillGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#06B6D4" stop-opacity="0.2"/>
+      <stop offset="100%" stop-color="#6366F1" stop-opacity="0.2"/>
+    </linearGradient>
+
+    <pattern id="grid" width="30" height="30" patternUnits="userSpaceOnUse">
+      <path d="M 30 0 L 0 0 0 30" fill="none" stroke="#FFFFFF" stroke-opacity="0.03" stroke-width="1"/>
+      <circle cx="0" cy="0" r="1" fill="#FFFFFF" fill-opacity="0.1"/>
+    </pattern>
+  </defs>
+
+  <style>
+    .name-text {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Inter, Helvetica, Arial, sans-serif;
+      font-weight: 800;
+      font-size: 46px;
+      letter-spacing: -0.5px;
+    }
+    .sub-text {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Inter, Helvetica, Arial, sans-serif;
+      font-weight: 500;
+      font-size: 16px;
+      letter-spacing: 0.5px;
+      fill: #94A3B8;
+    }
+    .badge-text {
+      font-family: 'SF Mono', Consolas, 'Liberation Mono', Menlo, Courier, monospace;
+      font-size: 11px;
+      font-weight: 600;
+      letter-spacing: 1px;
+      fill: #38BDF8;
+    }
+  </style>
+
+  <!-- Card Background -->
+  <rect width="900" height="220" rx="16" fill="url(#bgGradient)"/>
+  <rect width="900" height="220" rx="16" fill="url(#grid)"/>
+
+  <!-- Glow effects -->
+  <rect width="900" height="220" rx="16" fill="url(#glowCyan)"/>
+  <rect width="900" height="220" rx="16" fill="url(#glowIndigo)"/>
+  <rect width="900" height="220" rx="16" fill="url(#glowEmerald)"/>
+
+  <!-- Border outline -->
+  <rect x="1" y="1" width="898" height="218" rx="15" fill="none" stroke="url(#borderGrad)" stroke-width="1.5"/>
+
+  <!-- Header Top Pill / Tag -->
+  <g transform="translate(50, 36)">
+    <rect width="275" height="26" rx="13" fill="url(#pillGrad)" stroke="#38BDF8" stroke-opacity="0.4" stroke-width="1"/>
+    <circle cx="16" cy="13" r="4" fill="#10B981"/>
+    <text x="30" y="17" class="badge-text">PORTFOLIO &amp; ENGINEERING HUB</text>
+  </g>
+
+  <!-- Main Name Title -->
+  <text x="50" y="112" class="name-text" fill="url(#textGradient)">Vedant Yogesh Ilame</text>
+
+  <!-- Subtitle / Positioning -->
+  <text x="50" y="148" class="sub-text">
+    Software Engineer <tspan fill="#38BDF8">•</tspan> Full-Stack &amp; Frontend Architect <tspan fill="#6366F1">•</tspan> Generative AI Enthusiast
+  </text>
+
+  <!-- Decorative subtle underline bar -->
+  <rect x="50" y="174" width="220" height="3" rx="1.5" fill="url(#textGradient)"/>
+  <rect x="276" y="174" width="12" height="3" rx="1.5" fill="#38BDF8"/>
+  <rect x="294" y="174" width="6" height="3" rx="1.5" fill="#818CF8"/>
+
+  <!-- Decorative Right-side Tech Monogram / Icon Symbol -->
+  <g transform="translate(730, 45)" opacity="0.85">
+    <rect width="115" height="130" rx="16" fill="#1E293B" fill-opacity="0.4" stroke="#334155" stroke-width="1.2"/>
+    <circle cx="57.5" cy="48" r="26" fill="none" stroke="url(#textGradient)" stroke-width="2"/>
+    <path d="M 46 48 L 54 56 L 70 40" fill="none" stroke="#38BDF8" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="57.5" y="98" text-anchor="middle" font-family="'SF Mono', Consolas, monospace" font-size="11" fill="#94A3B8" letter-spacing="1">DEV / SDE</text>
+    <circle cx="57.5" cy="114" r="2" fill="#10B981"/>
+  </g>
+</svg>
